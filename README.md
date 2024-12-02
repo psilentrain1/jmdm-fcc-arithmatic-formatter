@@ -1,10 +1,10 @@
-### Arithmatic Formatter
+### Arithmetic Formatter
 
 This project takes groups of math problems and rearranges them like they would be on paper. There's an optional flag to calculate the result.
 
-#### Using the Arithmatic Formatter
+#### Using the Arithmetic Formatter
 
-Add any function calls you would llike as `arithmatic_arranger([list_of_problems])`.
+Add any function calls you would llike as `arithmetic_arranger([list_of_problems])`.
 
 #### Test Cases
 
